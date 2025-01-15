@@ -25,6 +25,8 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
+Our app communicates with external servers to fetch employee records based on the user's input. Data such as Personal Number, CNIC, Date of Birth, and Month/Year are sent to the server for this purpose. We ensure that all data transmitted is encrypted, and no data is stored locally in the app or on third-party servers.
+
 **Opt-Out Rights**
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
