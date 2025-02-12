@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Employee Mate app (hereby referred to as "Application") for mobile devices that was created by Farukh Mushtaq (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the this app (hereby referred to as "Application") for mobile devices that was created by Farukh Mushtaq (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -51,6 +51,12 @@ This Privacy Policy may be updated from time to time for any reason. The Service
 
 This privacy policy is effective as of 2024-09-02
 
+**Information We Collect**
+We may collect:
+- **Camera Access:** Used for QR code scanning (not stored on our servers).
+- **Location Data:** Used to determine nearest facility to subscribe if any.
+- **Device Information:** To improve app performance.
+  
 **Your Consent**
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
